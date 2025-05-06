@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bekzod
+- 📫 How to reach me paxbyme@gmail.com
+- 
