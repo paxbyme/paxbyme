@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paxbyme&label=Profile%20views&color=0e75b6&style=flat" alt="paxbyme" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paxbyme" alt="paxbyme" /></a> </p>
-
 - 📫 How to reach me **paxbyme@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,5 +16,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/paxbyme"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paxbyme" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paxbyme&" alt="paxbyme" /></p>
