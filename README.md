@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bekzod</h1>
-<h3 align="center">Mobile developer from Uzbekistan</h3>
+<h3 align="center">Mobile developer from Uzbekistan🇺🇿</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paxbyme&label=Profile%20views&color=0e75b6&style=flat" alt="paxbyme" /> </p>
+
+- 🔭 I’m currently working on [MonoFetch](https://github.com/paxbyme/MonoFetch)
 
 - 📫 How to reach me **paxbyme@gmail.com**
 
